@@ -1,5 +1,4 @@
 <h1 aling="center">ENG 🇺🇸</h1>
-<hr>
 <h1 align="center">Hi there, I'm <a href="https://t.me/void_inside_me" target="_blank">Egor</a> 
 <h2 align="center">Computer science student, IT news writer from Russia</h2>
 <!--
