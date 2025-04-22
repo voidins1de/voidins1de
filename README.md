@@ -1,10 +1,10 @@
-## Hi there 👋
-
+<h1 aling="center">ENG 🇺🇸</h1>
+<hr>
+<h1 align="center">Hi there, I'm <a href="https://t.me/void_inside_me" target="_blank">Egor</a> 
+<h2 align="center">Computer science student, IT news writer from Russia</h2>
 <!--
 **voidins1de/voidins1de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
