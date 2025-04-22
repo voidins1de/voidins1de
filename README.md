@@ -5,7 +5,7 @@
 <h3> - 📫 How to reach me: <b> <a href="https://t.me/void_inside_me" target="_blank"> telegram </a> </b> </h3> <br>
 <h4> 🌐 My Social Media </h4>
 <div>
-  <a href="www.tumblr.com/thevoidwithinme" target="_blank">
+  <a href="https://www.tumblr.com/blog/thevoidwithinme" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png" alt="Tumblr" width="24">
     <span> Tumblr </span>
   </a>
