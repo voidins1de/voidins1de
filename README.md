@@ -4,17 +4,51 @@
 <h3> - 🌱 I’m currently learning Web, Java, React and JavaScript </h3> <br>
 <h3> - 📫 How to reach me: <b> <a href="https://t.me/void_inside_me" target="_blank"> telegram </a> </b> </h3> <br>
 <h4> 🌐 My Social Media </h4>
-<div align="center">
-[![Tumblr](https://img.shields.io/badge/-Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white)](https://your-tumblr-link)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourchannel)
-</div>
-## 🌐 My Social Media
-
-<div align="center">
+<div class="social-container">
+  <a href="https://tumblr.com/your-profile" target="_blank" class="social-item">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png" alt="Tumblr" width="24">
+    <span>Tumblr</span>
+  </a>
   
-| | |
-|:-------------------------:|:-------------------------:|
-| [![Tumblr](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png)](https://your-tumblr-link)  Tumblr | [![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://your-telegram-link)  Telegram |
-| [![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/yourusername)  GitHub | [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/yourprofile)  LinkedIn |
-
+  <a href="https://t.me/your-channel" target="_blank" class="social-item">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="24">
+    <span>Telegram Channel</span>
+  </a>
+  
+  <a href="https://github.com/your-username" target="_blank" class="social-item">
+    <img src="https://img.icons8.com/sf-black-filled/64/github.png" alt="GitHub" width="24">
+    <span>GitHub</span>
+  </a>
 </div>
+
+<style>
+.social-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 20px 0;
+}
+.social-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: #f5f5f5;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.3s ease;
+  border: 1px solid #ddd;
+}
+.social-item:hover {
+  background: #e9e9e9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.social-item img {
+  transition: transform 0.3s ease;
+}
+.social-item:hover img {
+  transform: scale(1.1);
+}
+</style>
