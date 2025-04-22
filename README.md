@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Web, Java, React and JavaScript <br>
 - 📫 How to reach me: <b> <a href="https://t.me/void_inside_me" target="_blank"> telegram </a> </b> <br>
 My social media: 
-tumblr <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png">
+tumblr <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png" width="40px">
