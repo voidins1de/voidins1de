@@ -8,3 +8,13 @@
 [![Tumblr](https://img.shields.io/badge/-Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white)](https://your-tumblr-link)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourchannel)
 </div>
+## 🌐 My Social Media
+
+<div align="center">
+  
+| | |
+|:-------------------------:|:-------------------------:|
+| [![Tumblr](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png)](https://your-tumblr-link)  Tumblr | [![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://your-telegram-link)  Telegram |
+| [![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/yourusername)  GitHub | [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/yourprofile)  LinkedIn |
+
+</div>
