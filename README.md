@@ -8,15 +8,15 @@
   <a href="https://www.tumblr.com/blog/thevoidwithinme" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tumblr-square-color-icon.png" alt="Tumblr" width="24">
     <span> Tumblr </span>
-  </a>
+  </a> <br>
   
   <a href="https://t.me/lettersandme" target="_blank">
     <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="24">
     <span> Telegram Channel </span>
-  </a>
+  </a> <br>
   
   <a href="https://steamcommunity.com/id/White_rose_911/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=zNqjI8XKkCv0&format=png&color=000000" alt="Steam" width="24">
     <span> Steam </span>
-  </a>
+  </a> <br>
 </div>
